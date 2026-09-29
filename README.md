@@ -44,4 +44,4 @@ R.J. – Your Personal Journal does not currently use advertising or analytics s
 
 **Developer:** SAIN (Б.К)  
 **Application:** R.J. – Your Personal Journal  
-**Email:** YOUR_EMAIL_HERE
+**Email:** --SOON--
